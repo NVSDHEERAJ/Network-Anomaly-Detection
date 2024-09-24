@@ -1,4 +1,4 @@
-#VAE for Network Anomaly Detection
+# VAE for Network Anomaly Detection
 
 ## Introduction
 This project addresses the critical need for effective anomaly detection in network security, introducing a novel Hybrid Variational Autoencoder (VAE) that integrates CNN layers. Aimed at enhancing anomaly detection within computer networks, this approach tackles the challenges posed by sophisticated cyber threats by examining network data for deviations in traffic patterns, device behavior, and system performance.
